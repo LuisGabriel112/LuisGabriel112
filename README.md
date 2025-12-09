@@ -31,8 +31,10 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
-![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=LuisGabriel112&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGabriel112&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisGabriel112&theme=tokyonight" alt="Resumen de Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisGabriel112&theme=tokyonight" alt="Lenguajes" />
+</p>
 
