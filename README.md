@@ -25,8 +25,8 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en proyectos que integran **Django** con interfaces reactivas.
-- 🌱 Siempre estoy aprendiendo nuevas formas de optimizar el rendimiento web con **Astro**.
+- 🔭 Actualmente estoy trabajando en proyectos que integran **ASTRO** con interfaces rapidas.
+- 🌱 Siempre estoy aprendiendo nuevas formas de mejorar mi trabajo.
 - 💼 Busco colaborar en proyectos de desarrollo web Full Stack.
 
 ---
@@ -36,8 +36,3 @@
 ![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=LuisGabriel112&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGabriel112&layout=compact&theme=tokyonight)
 
----
-
-### 📫 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN_AQUI)
