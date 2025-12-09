@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! Soy Luis Gabriel Venegas 👋
 
-<!--
-**LuisGabriel112/LuisGabriel112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Especialista en Desarrollo Web
+¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear experiencias web modernas, rápidas y escalables. Me especializo tanto en el Frontend como en el Backend, combinando la potencia de Python con la interactividad de las tecnologías web actuales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Lenguajes y Fundamentos:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frontend Moderno & Estilos:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Frameworks:**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### 🚀 Sobre mí
+
+- 🔭 Actualmente estoy trabajando en proyectos que integran **Django** con interfaces reactivas.
+- 🌱 Siempre estoy aprendiendo nuevas formas de optimizar el rendimiento web con **Astro**.
+- 💼 Busco colaborar en proyectos de desarrollo web Full Stack.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=LuisGabriel112&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGabriel112&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN_AQUI)
