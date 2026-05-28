@@ -1,40 +1,33 @@
 # ¡Hola! Soy Luis Gabriel Venegas 👋
 
-### 👨‍💻 Especialista en Desarrollo Web
-¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear experiencias web modernas, rápidas y escalables. Me especializo tanto en el Frontend como en el Backend, combinando la potencia de Python con la interactividad de las tecnologías web actuales.
+### Fullstack Developer | Co-founder @JOLTEC
+
+Construyo productos digitales reales — desde el diseño de la base de datos 
+hasta el despliegue en producción. Especializado en Python y ecosistema React.
 
 ---
 
-### 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-**Lenguajes y Fundamentos:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frontend Moderno & Estilos:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Frameworks:**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Frontend:** React · Next.js · SvelteKit · Tailwind CSS · TypeScript  
+**Backend:** Python · FastAPI · Django · Node.js  
+**Base de datos:** PostgreSQL · Supabase  
+**DevOps:** Docker · Git · Linux · Render  
+**CV/ML:** YOLOv11 · PaddleOCR · NCNN  
 
 ---
 
-### 🚀 Sobre mí
+## 🚀 Proyectos destacados
 
-- 🔭 Actualmente estoy trabajando en proyectos que integran **ASTRO** con interfaces rapidas.
-- 🌱 Siempre estoy aprendiendo nuevas formas de mejorar mi trabajo.
-- 💼 Busco colaborar en proyectos de desarrollo web Full Stack.
+| Proyecto | Descripción | Stack |
+|----------|------------|-------|
+| [LogiGate AI](https://github.com/LuisGabriel112/LogiGate) | Control de acceso con visión por computadora para patio logístico portuario | SvelteKit · FastAPI · YOLOv11 |
+| [Agenda Abierta](https://github.com/LuisGabriel112/Agenda-Abierta) | SaaS de agendamiento para barberías con pagos integrados | FastAPI · Supabase · Stripe |
+| [respiVer](https://github.com/LuisGabriel112/respiVer) | Sitio institucional para clínica de neumología | Next.js · React |
 
 ---
 
-### 📊 Mis Estadísticas
+## 📫 Contacto
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisGabriel112&theme=tokyonight" alt="Resumen de Perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisGabriel112&theme=tokyonight" alt="Lenguajes" />
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Venegas-blue)](https://linkedin.com/in/luis-gabriel-venegas-saucedo-26a68b236)
+✉️ venegassaucedoluis@gmail.com
