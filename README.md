@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Gabriel Venegas 👋
 
-### Fullstack Developer | Co-founder @JOLTEC
+### Fullstack Developer | Co-founder @MARVENTEC
 
 Construyo productos digitales reales — desde el diseño de la base de datos 
 hasta el despliegue en producción. Especializado en Python y ecosistema React.
